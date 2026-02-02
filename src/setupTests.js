@@ -1,3 +1,6 @@
+// PREPARED BY SANGHARSH
+
+
 import "jest-canvas-mock";
 import {configure} from "enzyme";
 import Adapter from "enzyme-adapter-react-16";
